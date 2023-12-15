@@ -1,15 +1,15 @@
 {
   "status": "done",
   "assets": {
-    "frontend-1d5ba42b1a25ff61fb66.js": {
-      "name": "frontend-1d5ba42b1a25ff61fb66.js",
-      "path": "C:\\Users\\deepe\\OneDrive\\Desktop\\render\\django_react_starter\\frontend\\static\\frontend\\frontend-1d5ba42b1a25ff61fb66.js",
-      "publicPath": "static/frontend/frontend-1d5ba42b1a25ff61fb66.js"
+    "frontend-77228124e94dc46e358c.js": {
+      "name": "frontend-77228124e94dc46e358c.js",
+      "path": "C:\\Users\\deepe\\OneDrive\\Desktop\\render\\django_react_starter\\frontend\\static\\frontend\\frontend-77228124e94dc46e358c.js",
+      "publicPath": "static/frontend/frontend-77228124e94dc46e358c.js"
     }
   },
   "chunks": {
     "frontend": [
-      "frontend-1d5ba42b1a25ff61fb66.js"
+      "frontend-77228124e94dc46e358c.js"
     ]
   },
   "publicPath": "static/frontend/"
